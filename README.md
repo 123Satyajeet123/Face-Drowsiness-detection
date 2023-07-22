@@ -1,7 +1,7 @@
 # Face Drowsiness Detection System using YOLOv5
 
 <p align="center">
-  <img src="results.png" alt="demo image">
+  <img src="https://github.com/123Satyajeet123/Face-Drowsiness-detection/assets/103361055/15dfd9dc-752c-4a3d-8bec-c991e558c49e" alt="logos" heigth=200rem>
 </p>
 
 This repository contains a system that uses YOLOv5 to detect faces and determines whether the person is awake or drowsy. The project includes the necessary code to set up the YOLOv5 environment and perform face detection.
